@@ -37,5 +37,38 @@ Step 5: Now for creating an instance
            select the Security group which we had prepared earlier . 
        5.9 Click on launch the instance
 
+Step 6: After Launching the instance right click-on the instance and select the option connect 
+Step 7: It automatically takes us to "Connect to Instance" page 
+Step 8: Now here select "Connect to EC2 instance connect"
+Step 9 Click on Connect
+Step 10: We get re-directed to a new page in which we now have the terminal 
+
+#V2#
+
+Installing & Connecting MySql Server and then further Creating a Database 
+
+COMMANDS USED TO HOST MYSQL SERVER ON AWS EC2 INSTANCE :
+
+ 
+Step 1: Update the system
+-sudo apt update
+Step 2: Install MySql
+-sudo apt install mysql-server
+Step 3: Check the Status of MySql (Active or Inactive)
+-sudo systemctl status mysql
+Step 4: Login to MySql as a root
+-sudo mysql
+Step 5: Update the password for the MySql Server
+-ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'place-your-password-here';
+-FLUSH PRIVILEGES;
+Step 6: Test the MySql server if it is working by running sample sql queries
+-CREATE DATABASE mysql_test;
+-USE mysql_test;
+-CREATE TABLE table1 (id INT, name VARCHAR(45));
+-INSERT INTO table1 VALUES(1, 'Ayush'), (2, 'Heeral');
+-SELECT * FROM table1;
+
+
+
 
 
