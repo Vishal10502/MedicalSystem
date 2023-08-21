@@ -1,6 +1,6 @@
 ## Github Actions:
 ## Task 2(V2): Maven(maven package, copy .jar to S3 bucket)-- In this task I have to create a CI pipeleine .
-I need to install mave,craete a S3 bucket and need to upload .jar file in the newly created bucket. All actions should take place using Github Actions only.
+I need to install maven ,create a S3 bucket and need to upload .jar file in the newly created bucket. All actions should take place using Github Actions only.
  
 In main.tf<br>
 -->Set up the required version for terraform. <br>
