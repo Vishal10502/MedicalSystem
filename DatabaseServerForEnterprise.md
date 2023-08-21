@@ -9,10 +9,11 @@
 **Step 2**: From the drop-down menu of options, tap on “EC2 " <br>
 **Step 3**: For Creating an Instance we first need to create a "KEY PAIR " <br>
 1. Under Resources click-on Key pairs <br>
-   **3.2**: Now Create a new keypair by clicking on "create key pair " at the top right of the section <br>
-   **3.3**: Now enter the key pair name , select key pair type to RSA or ED25519 respectively <br>
-   **3.4**: Now selectthe private key type as .pem or .ppk according to your working enviornment <br>
-   **3.5**: Now Finally click-on create keypair <br>
+2. Now Create a new keypair by clicking on "create key pair " at the top right of the section <br>
+3. Now enter the key pair name , select key pair type to RSA or ED25519 respectively <br>
+4. Now selectthe private key type as .pem or .ppk according to your working enviornment <br>
+5. Now Finally click-on create keypair <br>
+
 **Step 4**: After successfully creating a keypair we now need to create a security group <br>
    **4.1**: Under the Resources click-on Security Groups <br>  
    **4.2**: We already have an existing security group ie: the default security group but for our requirements
