@@ -1,3 +1,4 @@
+<pre>
 Command Line Interface commands which i used during deployment of V1 and V2
 Microsoft Windows [Version 10.0.19045.2006]
 (c) Microsoft Corporation. All rights reserved.
@@ -408,6 +409,6 @@ root@ip-172-31-35-174:/home/ubuntu/awesome-compose/nginx-aspnet-mysql# docker co
  ✔ Network nginx-aspnet-mysql_default      Removed                             0.1s
 root@ip-172-31-35-174:/home/ubuntu/awesome-compose/nginx-aspnet-mysql#
 
-
+<pre>
 Submitted By:
 Anuj Sharma
