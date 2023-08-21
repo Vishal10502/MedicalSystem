@@ -32,14 +32,13 @@
    2. Click on launch instance ,  after clicking on it you will be redirected to a launch page where we can create instance
    3. Create a name for the instance <br>
    4. Select AMI – Required operating system from the available. <br>
-   5. I am selecting Ubuntu AMI as we need to create Ubuntu instance. <br>
-            By default, it selects a free tier storage. <br>
+   5. I am selecting Ubuntu AMI as we need to create Ubuntu instance. By default, it selects a free tier storage. <br>
    6. Select instance type <br>
-            By default, instance type is “t2.micro” which is free tier eligible service. <br>
-            Do not select any other which leads to billing amount. <br>
+       By default, instance type is “t2.micro” which is free tier eligible service. <br>
+       Do not select any other which leads to billing amount. <br>
    7. Now Select the key pair which me made earlier . <br>
    8. In the network setting Select to existing security group and under that 
-            select the Security group which we had prepared earlier . <br>
+      select the Security group which we had prepared earlier . <br>
    9. Click on launch the instance <br>
    
 **Step 6**: After Launching the instance right click-on the instance and select the option connect <br>
