@@ -1,1 +1,17 @@
+# V1 #
+DATABASE INFRASTRUCTURE PREPARATION : 
+
+Step-By-Step 
+Process for creating an EC2 instance :
+
+CREATING AN EC2 INSTANCE 
+Step 1: First, login into your AWS account and click on “services” 
+Step 2: From the drop-down menu of options, tap on “EC2 " 
+Step 3: For Creating an Instance we first need to create a "KEY PAIR " 
+       3.1: Under Resources click-on Key pairs 
+       3.2: Now Create a new keypair by clicking on "create key pair " at the top right of the section 
+       3.3: Now enter the key pair name , select key pair type to RSA or ED25519 respectively 
+       3.4: Now selectthe private key type as .pem or .ppk according to your working enviornment 
+       3.5: Now Finally click-on create keypair 
+Step 4:
 
