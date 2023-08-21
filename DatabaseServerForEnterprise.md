@@ -15,8 +15,8 @@
    **3.5**: Now Finally click-on create keypair <br>
 **Step 4**: After successfully creating a keypair we now need to create a security group <br>
    **4.1**: Under the Resources click-on Security Groups <br>  
-   **4.2** We already have an existing security group ie: the default security group but for our requirements
-           we well create a new one <br>
+   **4.2**: We already have an existing security group ie: the default security group but for our requirements
+            we well create a new one <br>
    **4.2**: So now Create a new security group by clicking on "create security group " <br>
    **4.3**: Fill in the security group name , description , vpc info and then add inbound rules to it <br>
    **4.4**: Select in-bound rules and add a new rule with type as "All Traffic" and source as "IPV4" <br>
@@ -39,7 +39,7 @@
 **Step 6**: After Launching the instance right click-on the instance and select the option connect <br>
 **Step 7**: It automatically takes us to "Connect to Instance" page <br>
 **Step 8**: Now here select "Connect to EC2 instance connect" <br>
-**Step 9** Click on Connect <br>
+**Step 9**: Click on Connect <br>
 **Step 10**: We get re-directed to a new page in which we now have the terminal <br>
 
 
