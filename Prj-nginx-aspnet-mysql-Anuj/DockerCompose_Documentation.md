@@ -35,14 +35,16 @@ Connect via SSH:
   
     **Command:**
   
-    ```ssh -i key.pem ubuntu@IP_address```
+    ``` ssh -i key.pem ubuntu@IP_address ```
   
 **4. Run Docker Info:**
 
 - After successfully connecting to the EC2 instance via SSH, you'll be in the instance's command-line interface. 
 - Run the following command to check Docker information:
+  
   **Command:**
-   ``docker info``
+  
+    ` docker info `
 
 
 
