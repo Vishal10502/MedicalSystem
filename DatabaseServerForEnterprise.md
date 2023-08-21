@@ -15,13 +15,13 @@
 5. Now Finally click-on create keypair <br>
 
 **Step 4**: After successfully creating a keypair we now need to create a security group <br>
-   **4.1**: Under the Resources click-on Security Groups <br>  
-   **4.2**: We already have an existing security group ie: the default security group but for our requirements
-            we well create a new one <br>
-   **4.2**: So now Create a new security group by clicking on "create security group " <br>
-   **4.3**: Fill in the security group name , description , vpc info and then add inbound rules to it <br>
-   **4.4**: Select in-bound rules and add a new rule with type as "All Traffic" and source as "IPV4" <br>
-   **4.5**: Click-on create security group <br>
+   1. Under the Resources click-on Security Groups <br>
+   2.  We already have an existing security group ie: the default security group but for our requirements
+            we well create a new one
+   3. So now Create a new security group by clicking on "create security group " <br>
+   4. Fill in the security group name , description , vpc info and then add inbound rules to it <br>
+   5. Select in-bound rules and add a new rule with type as "All Traffic" and source as "IPV4" <br>
+   6. Click-on create security group <br>
 **Step 5**: Now for creating an instance <br>
    **5.1**: click on instance under the resources section <br>
    **5.2**: Click on launch instance ,  after clicking on it you will be redirected to a launch page where 
