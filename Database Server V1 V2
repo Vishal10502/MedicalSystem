@@ -13,5 +13,29 @@ Step 3: For Creating an Instance we first need to create a "KEY PAIR "
        3.3: Now enter the key pair name , select key pair type to RSA or ED25519 respectively 
        3.4: Now selectthe private key type as .pem or .ppk according to your working enviornment 
        3.5: Now Finally click-on create keypair 
-Step 4:
+Step 4: After successfully creating a keypair we now need to create a security group 
+       4.1: Under the Resources click-on Security Groups 
+       4.2 We already have an existing security group ie: the default security group but for our requirements
+           we well create a new one  
+       4.2: So now Create a new security group by clicking on "create security group "
+       4.3: Fill in the security group name , description , vpc info and then add inbound rules to it
+       4.4: Select in-bound rules and add a new rule with type as "All Traffic" and source as "IPV4"
+       4.5: Click-on create security group
+Step 5: Now for creating an instance 
+       5.1: click on instance under the resources section 
+       5.2: Click on launch instance ,  after clicking on it you will be redirected to a launch page where 
+         we can create instance   
+       5.3: Create a name for the instance
+       5.4: Select AMI – Required operating system from the available.
+       5.5: I am selecting Ubuntu AMI as we need to create Ubuntu instance.
+           By default, it selects a free tier storage.
+       5.6: Select instance type
+           By default, instance type is “t2.micro” which is free tier eligible service.
+           Do not select any other which leads to billing amount.
+       5.7 Now Select the key pair which me made earlier .
+       5.8 In the network setting Select to existing security group and under that 
+           select the Security group which we had prepared earlier . 
+       5.9 Click on launch the instance
+
+
 
