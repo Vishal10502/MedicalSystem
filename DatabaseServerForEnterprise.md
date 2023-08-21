@@ -8,7 +8,7 @@
 **Step 1**: First, login into your AWS account and click on “services” <br>
 **Step 2**: From the drop-down menu of options, tap on “EC2 " <br>
 **Step 3**: For Creating an Instance we first need to create a "KEY PAIR " <br>
-   **3.1**: Under Resources click-on Key pairs <br>
+1. Under Resources click-on Key pairs <br>
    **3.2**: Now Create a new keypair by clicking on "create key pair " at the top right of the section <br>
    **3.3**: Now enter the key pair name , select key pair type to RSA or ED25519 respectively <br>
    **3.4**: Now selectthe private key type as .pem or .ppk according to your working enviornment <br>
