@@ -43,7 +43,7 @@ Step 8: Now here select "Connect to EC2 instance connect"
 Step 9 Click on Connect
 Step 10: We get re-directed to a new page in which we now have the terminal 
 
-#V2#
+# V2
 
 Installing & Connecting MySql Server and then further Creating a Database 
 
