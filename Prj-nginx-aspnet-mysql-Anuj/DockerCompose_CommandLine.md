@@ -1,5 +1,7 @@
+**Command Line Interface commands which i used during deployment of V1 and V2**
+
+**For Version 1**
 <pre>
-Command Line Interface commands which i used during deployment of V1 and V2
 Microsoft Windows [Version 10.0.19045.2006]
 (c) Microsoft Corporation. All rights reserved.
 
@@ -325,7 +327,9 @@ To see these additional updates run: apt list --upgradable
 Enable ESM Apps to receive additional future security updates.
 See https://ubuntu.com/esm or run: sudo pro status
 
-
+</pre>
+**For Version 2 (Task 2)**
+<pre>
 Last login: Sun Aug 20 18:08:40 2023 from 150.242.86.118
 ubuntu@ip-172-31-35-174:~$ ls
 awesome-compose
@@ -410,5 +414,6 @@ root@ip-172-31-35-174:/home/ubuntu/awesome-compose/nginx-aspnet-mysql# docker co
 root@ip-172-31-35-174:/home/ubuntu/awesome-compose/nginx-aspnet-mysql#
 
 <pre>
-Submitted By:
-Anuj Sharma
+
+**Submitted By:**
+**Anuj Sharma**
