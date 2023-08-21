@@ -23,20 +23,19 @@
    6. Click-on create security group <br>
    
 **Step 5**: Now for creating an instance <br>
-   **5.1**: click on instance under the resources section <br>
-   **5.2**: Click on launch instance ,  after clicking on it you will be redirected to a launch page where 
-            we can create instance <br> 
-   **5.3**: Create a name for the instance <br>
-   **5.4**: Select AMI – Required operating system from the available. <br>
-   **5.5**: I am selecting Ubuntu AMI as we need to create Ubuntu instance. <br>
+   1. click on instance under the resources section <br>
+   2. Click on launch instance ,  after clicking on it you will be redirected to a launch page where we can create instance
+   3. Create a name for the instance <br>
+   4. Select AMI – Required operating system from the available. <br>
+   5. I am selecting Ubuntu AMI as we need to create Ubuntu instance. <br>
             By default, it selects a free tier storage. <br>
-   **5.6**: Select instance type <br>
+   6. Select instance type <br>
             By default, instance type is “t2.micro” which is free tier eligible service. <br>
             Do not select any other which leads to billing amount. <br>
-   **5.7**: Now Select the key pair which me made earlier . <br>
-   **5.8**: In the network setting Select to existing security group and under that 
+   7. Now Select the key pair which me made earlier . <br>
+   8. In the network setting Select to existing security group and under that 
             select the Security group which we had prepared earlier . <br>
-   **5.9**: Click on launch the instance <br>
+   9. Click on launch the instance <br>
 **Step 6**: After Launching the instance right click-on the instance and select the option connect <br>
 **Step 7**: It automatically takes us to "Connect to Instance" page <br>
 **Step 8**: Now here select "Connect to EC2 instance connect" <br>
