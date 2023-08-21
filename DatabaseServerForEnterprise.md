@@ -28,7 +28,7 @@
    
 **Step 5**: Now for creating an instance <br>
 
-   1. click on instance under the resources section <br>
+   1. Click on instance under the resources section <br>
    2. Click on launch instance ,  after clicking on it you will be redirected to a launch page where we can create instance
    3. Create a name for the instance <br>
    4. Select AMI – Required operating system from the available. <br>
