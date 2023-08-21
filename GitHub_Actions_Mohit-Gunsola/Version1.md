@@ -37,7 +37,11 @@ name: Perform CICD Operations on Console Based Java Application
           run: java WelcomeWorld
 
 ```
---> On- it is a com
+--> on: is for the command on which you want the file to be executed <br>
+--> name: In this any text can be given. <br>
+--> run: In run the command which needs to be executed <br>
+
+
 
 
 
