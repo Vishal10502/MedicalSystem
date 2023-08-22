@@ -51,7 +51,11 @@
 
 **Step 10**: We get re-directed to a new page in which we now have the terminal <br
 
-**Step 11**: Sql Connection Established
+**Step 11**: Connecting Sql using EC2 instance Connect
+
+![Screenshot (3)](https://github.com/NubeEra-Projects/MedicalSystem/assets/79692668/2b2a3d67-c2be-4871-8676-21b0d00b6521)
+
+**Step 12**: Sql Connection Established
                                                                   
 ![Screenshot (1)](https://github.com/NubeEra-Projects/MedicalSystem/assets/79692668/668a6f93-e712-4fad-b29e-b39d334426ce)
 
