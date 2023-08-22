@@ -9,10 +9,10 @@ In this task we have created EC2 instance ,also created a s3 bucket and upload .
 
 3. To create an Instance we have to make "KEY PAIR" <br>
 
-  a) Under Resources click-on Key pairs <br>
-  b) Create a new keypair by clicking on "create key pair" <br>
-  c) After writing keypair name, select key pair type to RSA or ED25519 accordingly <br>
-  d)  Finally you will get keypair after clicking-on create keypair <br>
+   a) Under Resources click-on Key pairs <br>
+   b) Create a new keypair by clicking on "create key pair" <br>
+   c) After writing keypair name, select key pair type to RSA or ED25519 accordingly <br>
+   d)  Finally you will get keypair after clicking-on create keypair <br>
                                           
 4. Create a security group after creating keypair <br>
 
@@ -24,7 +24,6 @@ In this task we have created EC2 instance ,also created a s3 bucket and upload .
    f) Click-on create security group <br>
    
 5. Now for creating an instance <br>
-
    a) Click on instance under the resources section <br>
    b) Click on launch instance ,  after clicking on it you will be redirected to a launch page where we can create instance
    c) Create a name for the instance <br>
