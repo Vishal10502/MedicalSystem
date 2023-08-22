@@ -71,7 +71,7 @@ aws --version
 
 ```
 
-6. Configure the aws cli. <br>
+**6.** Configure the aws cli. <br>
 
 ```
 aws configure
