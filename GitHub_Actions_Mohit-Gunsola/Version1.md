@@ -2,12 +2,12 @@
 ## V1: Java Console(Github Checkout, Install Java)
 In this task I have to create a CI pipeleine.For this I need to install java and do Github checkout.<br>
 
---> Clone a Repositories(https://github.com/codingsenpai27/Repo1.git) <br>
---> Install Java. <br>
---> Compile the program <br>
---> Exceute the program <br>
---> Create a new branch. Ex-V1 <br>
---> Add all the changes. <br>
+1. Clone a Repositories(https://github.com/codingsenpai27/Repo1.git) <br>
+2. Install Java. <br>
+3. Compile the program <br>
+4. Exceute the program <br>
+5. Create a new branch. Ex-V1 <br>
+6. Add all the changes. <br>
 
 ``` 
 git add .
