@@ -51,7 +51,7 @@
 
 **Step 10**: We get re-directed to a new page in which we now have the terminal <br
 
-**Step 11**:
+**Step 11**: Sql Connection Established
                                                                   
 ![Screenshot (1)](https://github.com/NubeEra-Projects/MedicalSystem/assets/79692668/668a6f93-e712-4fad-b29e-b39d334426ce)
 
@@ -92,9 +92,11 @@ CREATE TABLE table1 (id INT, name VARCHAR(45));
 INSERT INTO table1 VALUES(1, 'Ayush'), (2, 'Heeral');
 SELECT * FROM table1;
 ```
-**Step 7**: Demo Screenshot of the Output
-
+**Step 7**: Created Table
+```
 ![Screenshot (2)](https://github.com/NubeEra-Projects/MedicalSystem/assets/79692668/56e9f563-7f31-4474-a90a-3167841950d6)
+
+```
 
 
 
