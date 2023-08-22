@@ -4,7 +4,8 @@ In this task we have created EC2 instance ,also created a s3 bucket and upload .
 ## AWS cli installation: <br>
 
 1. Create an EC2 instance and launch the instance.<br>
-2. Connect instance to ubuntu server. ``` ssh -i keyname.pem ubuntu@publicip ```  <br>
+2. Connect instance to ubuntu server. <br>
+``` ssh -i keyname.pem ubuntu@publicip ```  <br>
 3. Update the repository . ``` sudo apt update ``` <br>
 4. Install aws cli into ubuntu server. ``` sudo apt install awscli -y ``` <br>
 5. Check whether cli is installed or not. ``` aws --version ```  <br>
