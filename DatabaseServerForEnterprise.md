@@ -5,7 +5,7 @@
 **CREATING AN EC2 INSTANCE** <br>
 
 
-**Step 1**: First, login into your AWS account and click on “services” <br
+**Step 1**: First, login into your AWS account and click on “services” <br>
                                                                          
 **Step 2**: From the drop-down menu of options, tap on “EC2 " <br>
 
@@ -15,7 +15,7 @@
 2. Now Create a new keypair by clicking on "create key pair " at the top right of the section <br>
 3. Now enter the key pair name , select key pair type to RSA or ED25519 respectively <br>
 4. Now selectthe private key type as .pem or .ppk according to your working enviornment <br>
-5. Now Finally click-on create keypair <br
+5. Now Finally click-on create keypair <br>
                                           
 **Step 4**: After successfully creating a keypair we now need to create a security group <br>
 
