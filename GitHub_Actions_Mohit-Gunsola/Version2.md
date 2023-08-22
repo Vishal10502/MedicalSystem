@@ -15,15 +15,15 @@ In this task we have created EC2 instance ,also created a s3 bucket and upload .
      c) Default region name [Aws region] <br>
      d) Default output format [JSON format is fine] <br>
 
-### Create a s3 bucket using cli: <br>
+## Create a s3 bucket using cli: <br>
 
 1. Create a bucket with any name. ``` create-bucket --bucket "bucketname" --region us-east-1 ``` <br>
 2. list all the aws bucket. ``` aws s3 ls ``` <br>
 
-#### Copy .txt file to s3 bukcet using cli: <br>
+## Copy .txt file to s3 bukcet using cli: <br>
 
 1. Create a file in ubuntu server. ``` touch "filename.txt" ``` <br>
-2. Copy the created file to the aws s3 bucket. ``` aws s3 cp "filename.txt" s3://"bucketname" <br>
+2. Copy the created file to the aws s3 bucket. ``` aws s3 cp "filename.txt" s3://"bucketname" ``` <br>
 
 
 
