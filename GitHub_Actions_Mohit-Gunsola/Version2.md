@@ -44,30 +44,40 @@ In this task we have created EC2 instance ,also created a s3 bucket and upload .
 
 1. Launch the instance.<br>
 2. Connect instance to ubuntu server. <br>
+
 ```
 ssh -i keyname.pem ubuntu@publicip
 
- ```  
+```
+  
 3. Update the repository .  <br>
+
 ```
 sudo apt update
 
-``` 
+```
+
 4. Install aws cli into ubuntu server. <br>
+
 ```
 sudo apt install awscli -y
 
 ```
+
 5. Check whether cli is installed or not. <br>
+
 ```
 aws --version
 
 ```
+
 6. Configure the aws cli. <br>
+
 ```
 aws configure
 
-``` 
+```
+
    6.1. Enter the following details accordingly: <br>
      a) AWS Access Key ID [IAM user's Access key] <br>
      b) AWS Secret Access Key [IAM user's secret key] <br>
