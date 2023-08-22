@@ -32,7 +32,7 @@ name: Perform CICD Operations on Console Based Java Application
 
 ```
 
-1. Clone a Repositories(https://github.com/codingsenpai27/Repo1.git) <br>
+1. Clone a Project. <br>
 2. Install Java. <br>
 3. Compile the program <br>
 4. Exceute the program <br>
