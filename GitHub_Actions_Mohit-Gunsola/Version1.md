@@ -61,7 +61,7 @@ git push origin V1
 --> name: In this any text can be given. <br>
 --> run: In run the command which needs to be executed <br>
 
-## Output:
+## Output: <br>
 * Changes will be reflected in GitHub repository under actions section. <br>
 
 ![image](https://github.com/NubeEra-Projects/MedicalSystem/assets/103624779/54bcdb11-25c7-462e-bdf7-d174cb424532)
