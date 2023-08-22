@@ -49,10 +49,10 @@ ssh -i keyname.pem ubuntu@publicip
 
  ```  
 4. Update the repository .  <br>
-5.  ```
-6.  sudo apt update
-7.
-8.    ``` 
+```
+sudo apt update
+
+``` 
 9. Install aws cli into ubuntu server. <br>
 10.  ```
 11.  sudo apt install awscli -y
