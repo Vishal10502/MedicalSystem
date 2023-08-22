@@ -84,10 +84,30 @@ jobs:
 
 ```
 
-**name** in above file is optional. It is used to give the message.
-**on** is for the command on which you want the file to be executed.
-**jobs** are used to write different task you want to execute and write the commands.
-**run** is used to execute the commands.
+* **name** in above file is optional. It is used to give the message. <br>
+* **on** is for the command on which you want the file to be executed. <br>
+* **jobs** are used to write different task you want to execute and write the commands. <br>
+* **run** is used to execute the commands. <br>
+
+Open the terminal in VS code and push the changes by using below commands. <br>
+
+1. **git add** : Adds a change in the working directory to the staging area. <br>
+```
+git add .
+
+```
+
+2. **git commit** :It records the changes to the repository. <br>
+
+```
+git commit -m "V1.2"
+
+```
+
+3. **git push** : It upload local repository content to a remote repository.. <br>
+```
+git push orgin V2
+```
 
 
 
