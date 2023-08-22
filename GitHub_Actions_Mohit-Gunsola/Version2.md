@@ -27,7 +27,7 @@ resource "aws_s3_bucket" "b" {
 
 ```
 
-## Create JavaMvnJUnitApp.yml file and write the below content:
+## Create JavaMvnJUnitApp.yml file and write the below content: <br>
 
 ```
 name: Perform CICD Operations on Console Based Java App
