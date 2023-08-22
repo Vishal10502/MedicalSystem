@@ -13,12 +13,12 @@ In this task we have created EC2 instance ,also created a s3 bucket and upload .
 2. Now Create a new keypair by clicking on "create key pair " at the top right of the section <br>
 3. Now enter the key pair name , select key pair type to RSA or ED25519 respectively <br>
 4. Now selectthe private key type as .pem or .ppk according to your working enviornment <br>
-5. Now Finally click-on create keypair <br
+5. Now Finally click-on create keypair <br>
                                           
 **Step 4**: After successfully creating a keypair we now need to create a security group <br>
 
    1. Under the Resources click-on Security Groups <br>
-   2.  We already have an existing security group ie: the default security group but for our requirements we well create new one
+   2.  We already have an existing security group ie: the default security group but for our requirements we well create new one <br>
    3. So now Create a new security group by clicking on "create security group " <br>
    4. Fill in the security group name , description , vpc info and then add inbound rules to it <br>
    5. Select in-bound rules and add a new rule with type as "All Traffic" and source as "IPV4" <br>
