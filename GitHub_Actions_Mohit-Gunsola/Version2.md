@@ -7,7 +7,7 @@ In this task we have created EC2 instance ,also created a s3 bucket and upload .
                                                                          
 2. Into services click on "Ec2" <br>
 
-3. To create an Instance we have to make "KEY PAIR" <br>
+3. To create an Instance we have to make "KEY PAIR"  <br>
 
   3.1. Under Resources click-on Key pairs <br>
   3.2. Create a new keypair by clicking on "create key pair" <br>
