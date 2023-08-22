@@ -1,5 +1,5 @@
-##Github Actions:
-##V1: Java Console(Github Checkout, Install Java)
+# Github Actions:
+## V1: Java Console(Github Checkout, Install Java)
 In this task I have to create a CI pipeleine.For this I need to install java and do Github checkout.<br>
 
 --> Clone a Repositories(https://github.com/codingsenpai27/Repo1.git) <br>
