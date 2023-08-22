@@ -9,23 +9,23 @@ In this task we have created EC2 instance ,also created a s3 bucket and upload .
 
 3. To create an Instance we have to make "KEY PAIR" <br>
 
-   a) Under Resources click-on Key pairs <br>
+   a) Click-on Key pairs under the Resources <br>
    b) Create a new keypair by clicking on "create key pair" <br>
    c) After writing keypair name, select key pair type to RSA or ED25519 accordingly <br>
    d)  Finally you will get keypair after clicking-on create keypair <br>
                                           
 4. Create a security group after creating keypair <br>
 
-   a) Under the Resources click-on Security Groups <br>
+   a) Click-on Security Groups under the Resources <br>
    b) Create a new security group by clicking on "create security group" <br>
    c) After filling security group name , description , vpc info and then add inbound rules to it <br>
    d) Select in-bound rules and add a new rule with type as "All Traffic" and source as "IPV4" <br>
    e) Click-on create security group <br>
    
 5. Now for creating an instance <br>
-   a) Click on instance under the resources section <br>
+   a) Under resource click-on instance <br>
    b) Click on launch instance ,  after clicking on it you will be redirected to a launch page where we can create instance
-   c) Create a name for the instance <br>
+   c) Write a name for the instance <br>
    d) Select AMI – Required operating system from the available. <br>
    e) I am selecting Ubuntu AMI as we need to create Ubuntu instance. By default, it selects a free tier storage. <br>
    f) Select instance type <br>
