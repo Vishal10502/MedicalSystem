@@ -1,5 +1,6 @@
-# Task 2(V2): AWS cli(Create Bucket , copy .txt to S3 bucket)
-In this task we have created EC2 instance ,also created a s3 bucket and upload .txt file to s3 bukcet. All the actions are performed using AWS cli.<br>
+# GitHub actions:
+## Task 2(V2): 
+In this task with the help of github actions we are creating a s3 bucket and copying .war file into that bucket.
 <br>
 ## Creating EC2 instance: <br>
 
