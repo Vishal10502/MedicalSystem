@@ -14,14 +14,14 @@ git add .
 
  ```
 
---> Commit all the changes. <br>
+7. Commit all the changes. <br>
 
 ``` 
 git commit -m "V1"
 
  ```
 
--->Push the changes to the branch. <br>
+8. Push the changes to the branch. <br>
 
 ``` 
 git push origin V1
