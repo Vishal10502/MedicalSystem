@@ -25,18 +25,18 @@ In this task we have created EC2 instance ,also created a s3 bucket and upload .
    
 5. Now for creating an instance <br>
 
-   5.1. Click on instance under the resources section <br>
-   5.2. Click on launch instance ,  after clicking on it you will be redirected to a launch page where we can create instance
-   5.3. Create a name for the instance <br>
-   5.4. Select AMI – Required operating system from the available. <br>
-   5.5 I am selecting Ubuntu AMI as we need to create Ubuntu instance. By default, it selects a free tier storage. <br>
-   5.6. Select instance type <br>
+   a) Click on instance under the resources section <br>
+   b) Click on launch instance ,  after clicking on it you will be redirected to a launch page where we can create instance
+   c) Create a name for the instance <br>
+   d) Select AMI – Required operating system from the available. <br>
+   e) I am selecting Ubuntu AMI as we need to create Ubuntu instance. By default, it selects a free tier storage. <br>
+   f) Select instance type <br>
        By default, instance type is “t2.micro” which is free tier eligible service. <br>
        Do not select any other which leads to billing amount. <br>
-   5.7. Now Select the key pair which me made earlier . <br>
-   5.8. In the network setting Select to existing security group and under that 
+   g) Now Select the key pair which me made earlier . <br>
+   h) In the network setting Select to existing security group and under that 
       select the Security group which we had prepared earlier. <br>
-   5.9. Click on launch the instance <br>
+   i) Click on launch the instance <br>
 
    
 ## AWS cli installation: <br>
