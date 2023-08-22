@@ -95,7 +95,8 @@ create-bucket --bucket "bucketname" --region us-east-1
 
 2. list all the aws bucket.<br>
 
-``` aws s3 ls
+```
+aws s3 ls
 
 ```
 
