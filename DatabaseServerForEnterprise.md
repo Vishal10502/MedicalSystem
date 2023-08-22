@@ -93,10 +93,9 @@ INSERT INTO table1 VALUES(1, 'Ayush'), (2, 'Heeral');
 SELECT * FROM table1;
 ```
 **Step 7**: Created Table
-```
+
 ![Screenshot (2)](https://github.com/NubeEra-Projects/MedicalSystem/assets/79692668/56e9f563-7f31-4474-a90a-3167841950d6)
 
-```
 
 
 
