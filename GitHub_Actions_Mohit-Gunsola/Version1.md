@@ -59,7 +59,10 @@ name: Perform CICD Operations on Console Based Java Application
 --> name: In this any text can be given. <br>
 --> run: In run the command which needs to be executed <br>
 
-![image](https://github.com/NubeEra-Projects/MedicalSystem/assets/103624779/75a84d39-f8c3-46df-837b-1b08c72546b4)
+![image](https://github.com/NubeEra-Projects/MedicalSystem/assets/103624779/54bcdb11-25c7-462e-bdf7-d174cb424532)
+![image](https://github.com/NubeEra-Projects/MedicalSystem/assets/103624779/e6adf356-0daa-49d3-9205-5e19a603ef79)
+
+
 
 
 
