@@ -83,6 +83,11 @@ jobs:
 
 ```
 
+**name** in above file is optional. It is used to give the message.
+**on** is for the command on which you want the file to be executed.
+**jobs** are used to write different task you want to execute and write the commands.
+**run** is used to execute the commands.
+
 
 
 
