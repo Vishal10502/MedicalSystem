@@ -16,12 +16,12 @@ In this task we have created EC2 instance ,also created a s3 bucket and upload .
                                           
 4. Create a security group after creating keypair <br>
 
-   4.1. Under the Resources click-on Security Groups <br>
-   4.2.  We already have an existing security group ie: the default security group but for our requirements we well create new one <br>
-   4.3. So now Create a new security group by clicking on "create security group" <br>
-   4.4. Fill in the security group name , description , vpc info and then add inbound rules to it <br>
-   4.5. Select in-bound rules and add a new rule with type as "All Traffic" and source as "IPV4" <br>
-   4.6. Click-on create security group <br>
+   a) Under the Resources click-on Security Groups <br>
+   b)  We already have an existing security group ie: the default security group but for our requirements we well create new one <br>
+   c) So now Create a new security group by clicking on "create security group" <br>
+   d) Fill in the security group name , description , vpc info and then add inbound rules to it <br>
+   e) Select in-bound rules and add a new rule with type as "All Traffic" and source as "IPV4" <br>
+   f) Click-on create security group <br>
    
 5. Now for creating an instance <br>
 
