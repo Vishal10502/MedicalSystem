@@ -10,7 +10,7 @@ In this task we have created EC2 instance ,also created a s3 bucket and upload .
 3. To create an Instance we have to make "KEY PAIR " <br>
 
 3.1. Under Resources click-on Key pairs <br>
-3.2. Create a new keypair by clicking on "create key pair " <br>
+3.2. Create a new keypair by clicking on "create key pair" <br>
 3.3. After writing keypair name, select key pair type to RSA or ED25519 accordingly <br>
 3.4.  Finally you will get keypair after clicking-on create keypair <br>
                                           
@@ -18,7 +18,7 @@ In this task we have created EC2 instance ,also created a s3 bucket and upload .
 
    4.1. Under the Resources click-on Security Groups <br>
    4.2.  We already have an existing security group ie: the default security group but for our requirements we well create new one <br>
-   4.3. So now Create a new security group by clicking on "create security group " <br>
+   4.3. So now Create a new security group by clicking on "create security group" <br>
    4.4. Fill in the security group name , description , vpc info and then add inbound rules to it <br>
    4.5. Select in-bound rules and add a new rule with type as "All Traffic" and source as "IPV4" <br>
    4.6. Click-on create security group <br>
@@ -35,7 +35,7 @@ In this task we have created EC2 instance ,also created a s3 bucket and upload .
        Do not select any other which leads to billing amount. <br>
    5.7. Now Select the key pair which me made earlier . <br>
    5.8. In the network setting Select to existing security group and under that 
-      select the Security group which we had prepared earlier . <br>
+      select the Security group which we had prepared earlier. <br>
    5.9. Click on launch the instance <br>
 
    
