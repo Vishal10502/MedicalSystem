@@ -17,7 +17,7 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "b" {
-  bucket = "mohit-bkt-22-august"
+  bucket = "mohit-bkt-22-august" 
   acl    = "private"
 
   versioning {
@@ -108,6 +108,12 @@ git commit -m "V1.2"
 ```
 git push orgin V2
 ```
+
+## Output:
+The changes will be reflected in the repository under actions section.
+
+![image](https://github.com/NubeEra-Projects/MedicalSystem/assets/103624779/bdc9d62e-4a94-45da-9c00-1cebb8f91ddc)
+![image](https://github.com/NubeEra-Projects/MedicalSystem/assets/103624779/f33d5ff0-38d0-48f9-a079-76298139d981)
 
 
 
