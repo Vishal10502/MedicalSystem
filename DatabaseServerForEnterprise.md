@@ -5,7 +5,10 @@
 **CREATING AN EC2 INSTANCE** <br>
 
 
+```
 **Step 1**: First, login into your AWS account and click on “services” <br>
+
+```
                                                                          
 **Step 2**: From the drop-down menu of options, tap on “EC2 " <br>
 
