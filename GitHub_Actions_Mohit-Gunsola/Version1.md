@@ -1,6 +1,11 @@
 # Github Actions:
 ## V1: Java Console(Github Checkout, Install Java)
-In this task I have to create a CI pipeleine.For this I need to install java and do Github checkout.<br>
+In this task I have to create a CI pipeline.For this I need to install java and do Github checkout.<br>
+
+## CI architecture: <br>
+
+![Untitled Diagram-V1 drawio (2)](https://github.com/NubeEra-Projects/MedicalSystem/assets/103624779/d8285614-f7b9-4691-a20d-ff730626df6b)
+
 
 ### Create a .yml file and write the below code : <br>
 
