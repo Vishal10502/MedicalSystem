@@ -26,9 +26,10 @@ resource "aws_s3_bucket" "b" {
 }
 
 ```
-Now make a .github folder, make new workflows folder in it and make new file .YAML file with .yml or .yaml. <br>
+ 
 
 ### Create JavaMvnJUnitApp.yml file and write the below content: <br>
+Now make a .github folder, make new workflows folder in it and make new file .YAML file with .yml or .yaml. <br>
 
 ```
 name: Perform CICD Operations on Console Based Java App
