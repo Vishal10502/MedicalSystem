@@ -4,6 +4,9 @@ In this task with the help of github actions we are creating a s3 bucket and cop
 
 ## CI/CD architecture : <br> 
 
+![main v2](https://github.com/NubeEra-Projects/MedicalSystem/assets/103624779/7d826e00-b77b-4c20-a478-3c97c5125c41)
+
+
 
 
 ### Create main.tf write the below content: <br>
