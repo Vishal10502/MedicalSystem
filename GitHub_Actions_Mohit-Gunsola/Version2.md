@@ -116,7 +116,7 @@ git push orgin V2
 ![image](https://github.com/NubeEra-Projects/MedicalSystem/assets/103624779/bdc9d62e-4a94-45da-9c00-1cebb8f91ddc)
 ![image](https://github.com/NubeEra-Projects/MedicalSystem/assets/103624779/f33d5ff0-38d0-48f9-a079-76298139d981)
 
-## Auto deployment of artifacts:
+## Auto deployment of artifacts: <br>
 
 * s3 bucket will be created in aws automatically and .war file will also get uploaded. <br>
 
