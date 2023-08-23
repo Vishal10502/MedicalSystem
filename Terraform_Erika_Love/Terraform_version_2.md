@@ -16,7 +16,8 @@ acl = "private"
 enabled = true 
 } 
 }
-```
+``` 
+
 Now make a .github folder, make new workflows folder in it and make new file .YAML file with .yml or .yaml
 -	Add the following content into YAML file 
 ```
@@ -27,6 +28,7 @@ on: push
  ```
  ```
 	jobs:
+```
 ```
 	  MyJob:
 	    runs-on: ubuntu-latest
@@ -57,20 +59,32 @@ on: push
 	
 	      - name: 6. Build & Test Project
 	        run: mvn package 
-	      
 	      - name: 7. Infrastructure Provisioning(Initialize)
 	        run: terraform init
-	
+```
+![Alt text](<doc/MicrosoftTeams-image (2).png>)
+
+```
 	      - name: 8. Infrastructure Provisioning(Plan)
 	        run: terraform plan 
-	
+```
+![Alt text](<doc/MicrosoftTeams-image (3).png>)
+![Alt text](<doc/MicrosoftTeams-image (4).png>)
+```
 	      - name: 9. Infrastructure Provisioning(Plan)
 	        run: terraform apply -auto-approve -input=false
-	
+```
+![Alt text](<doc/MicrosoftTeams-image (5).png>)
+![Alt text](<doc/MicrosoftTeams-image (6).png>)
+![Alt text](<doc/MicrosoftTeams-image (7).png>)
+
+```
 	      - name: 10. Deploy and Run Project
 	        run: |
 	          cd target/classes
 	          java com.mycompany.app.Calculator
+```
+![Alt text](<doc/MicrosoftTeams-image (8).png>)
 
 - **name** in above file is optional
 - **on** is for the command on which you want the file to be executed

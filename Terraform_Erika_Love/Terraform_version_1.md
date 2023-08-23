@@ -31,6 +31,9 @@ Step 4: Open command prompt run following commamds
 content = “This is my text”
 filename = “%mytextfile.txt”
 }
+```
+![Alt text](<doc/MicrosoftTeams-image (11).png>)
+```
 -	Press esc to go to read mode
 -	Press shift + ‘:’  and now write mode to quit “wq!”
 -	Now to look into main. Tf run “cat main.tf”
@@ -80,10 +83,21 @@ enabled = true
 } 
 } 
 -	EOF
+```
+![Alt text](<doc/MicrosoftTeams-image (13).png>)
 -	Versioning maintains history of our data
+```
 -	Tf init
+```
+![Alt text](<doc/MicrosoftTeams-image (14).png>)
+```
 -	Tf plan
--	Tf apply, you can check the bucket is created
+-	Tf apply
+```
+![Alt text](<doc/MicrosoftTeams-image (9).png>)
+you can check the bucket is created
+![Alt text](<doc/MicrosoftTeams-image (12).png>)
+```
 -	Now to destroy the bucket we will run following command
 -	Tf destroy
 ```
